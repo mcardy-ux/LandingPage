@@ -1,4 +1,4 @@
-# Lezir - Vuejs Landing Page Template
+# Mcardi - Vuejs Landing Page
 
 ## Project setup
 ```
