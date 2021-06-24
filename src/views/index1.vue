@@ -35,6 +35,9 @@ export default {
               <h1
                 class="hero-1-title text-dark font-weight-bold text-shadow mb-4"
               >Juan David Cardenas</h1>
+              <h6
+                class="hero-4-title text-dark font-weight-bold text-shadow mb-4"
+              >Nickname: Mcardi</h6>
               <h3
                 class="hero-4-title text-dark font-weight-bold text-shadow mb-4"
               > Me gusta desarrollar aplicaciones informáticas y te invito a conocer como se pueden crear cosas geniales con código.</h3>
@@ -56,6 +59,7 @@ export default {
               <div class="mt-5 mt-lg-0">
                 
                 <img src="@/assets/images/hero-1-img.png" alt class="img-fluid d-block mx-auto animate__heartBeat" />
+                
               </div>
             </div>
           </div>
@@ -64,7 +68,7 @@ export default {
       <!-- Hero End -->
       <Service />
       <Features />
-      <!-- <Pricing /> -->
+      <!-- <Pricing />  -->
       <Blog />
       <!-- <Contact /> -->
       <Footer />

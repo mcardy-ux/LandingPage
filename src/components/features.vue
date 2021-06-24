@@ -22,10 +22,9 @@ export default {
         <div class="row justify-content-center">
           <div class="col-lg-6">
             <div class="text-center mb-5">
-              <h3 class="title mb-3">Awesome Features</h3>
+              <h3 class="title mb-3">Desarrollo de todo tipo</h3>
               <p class="text-muted font-size-15">
-                Et harum quidem rerum facilis est et expedita distinctio nam libero
-                tempore cum soluta nobis eligendi cumque.
+                Me gusta desarrollar soluciones de todo tipo, desde apps para dispositivos moviles, API REST, Apps para Relojes Inteligentes, Aplicaciones Corporativas y muchos mas.
               </p>
             </div>
           </div>
@@ -40,28 +39,23 @@ export default {
 
           <div class="col-lg-5 offset-lg-1">
             <p class="font-weight-medium text-uppercase mb-2">
-              <i class="mdi mdi-chart-bubble h2 text-primary mr-1 align-middle"></i> Creative Features
+              <i class="mdi mdi-chart-bubble h2 text-primary mr-1 align-middle"></i> DESARROLLO BACKEND
             </p>
             <h3 class="font-weight-semibold line-height-1_4 mb-4">
-              Build
-              <b>community</b> &
-              <b>conversion</b> with our
-              suite of
-              <b>social tool</b>
+              Lineas de Codigo pueden 
+              <b>Potenciar</b>,
+              <b>innovar</b>,
+              <b>destacar</b> tus objetivos e ideas.
             </h3>
-            <p class="text-muted font-size-15 mb-4">
-              Temporibus autem quibusdam et aut officiis debitis aut rerum a
-              necessitatibus saepe eveniet ut et voluptates repudiandae sint molestiae non recusandae itaque.
-            </p>
+           
             <p class="text-muted mb-2">
-              <layout-icon class="icon-xs mr-1"></layout-icon>Donec pede justo fringilla vel nec.
+              <layout-icon class="icon-xs mr-1"></layout-icon>Desarrollo FullStack
             </p>
             <p class="text-muted">
-              <life-buoy-icon class="icon-xs mr-1"></life-buoy-icon>Cras ultricies mi eu turpis hendrerit fringilla.
+              <life-buoy-icon class="icon-xs mr-1"></life-buoy-icon>Paginas Web, Tiendas Online, Aplicaciones Creativas.
             </p>
             <div class="mt-5">
-              <a href="javascript: void(0);" class="btn btn-primary mr-2">Read More</a>
-              <a href="javascript: void(0);" class="btn btn-soft-primary">Buy Now</a>
+              <a href="javascript: void(0);" class="btn btn-primary mr-2">Ver Proyectos</a>
             </div>
           </div>
         </div>
