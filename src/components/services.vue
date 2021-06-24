@@ -59,12 +59,12 @@
             <div class="col-md-6">
               <div class="wc-box rounded text-center wc-box-primary p-4">
                 <div class="wc-box-icon">
-                  <i class="mdi mdi-security"></i>
+                  <i class="mdi mdi-collage"></i>
                 </div>
-                <h5 class="font-weight-bold mb-2 wc-title mt-4">Analytics Security</h5>
+                <h5 class="font-weight-bold mb-2 wc-title mt-4">Generar inspiración con lo grafico</h5>
                 <p
                   class="text-muted mb-0 font-size-15 wc-subtitle"
-                >Tendras mayor efectividad al llegar a nuevos clientes con una mejor primera impresion.</p>
+                >Una primera impresion fascinante, nos ayuda a recordar, amar o tener otro tipo de sentimiento de lo que vemos, Por ello me dedico en optimizar el diseño grafico de los programas que diseño.</p>
               </div>
               <div class="wc-box rounded text-center wc-box-primary p-4">
                 <div class="wc-box-icon">
@@ -73,7 +73,7 @@
                 <h5 class="font-weight-bold mb-2 wc-title mt-4">Planificación es importante</h5>
                 <p
                   class="text-muted mb-0 font-size-15 wc-subtitle"
-                >Gestionamos estrategias de marca personalizadas para ti. Esta gestión de marca incluye la planificación a largo plazo, la creación y gestión de los elementos de la marca para aprovechar la percepción sobre el negocio en la mente de los consumidores. </p>
+                >gESTIONA estrategias de marca personalizadas para ti. Esta gestión de marca incluye la planificación a largo plazo, la creación y gestión de los elementos de la marca para aprovechar la percepción sobre el negocio en la mente de los consumidores. </p>
               </div>
             </div>
           </div>

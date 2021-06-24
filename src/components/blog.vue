@@ -17,7 +17,7 @@ export default {
             <h3 class="title mb-3">Artículos de Interés</h3>
             <p
               class="text-muted font-size-15"
-            >Et harum quidem rerum facilis est et expedita distinctio nam libero tempore cum soluta nobis eligendi cumque.</p>
+            >Encontraras los articulos de los temas mas interesantes que me han impresionado, Checalos y dejame tu feedback.</p>
           </div>
         </div>
       </div>
@@ -59,7 +59,7 @@ export default {
                 <calendar-icon class="icon-size-15 icon mr-1"></calendar-icon>01 Noviembre 2021
               </li>
               <li class="list-inline-item">
-                <user-icon class="icon-size-15 icon mr-1"></user-icon>Admin
+                <user-icon class="icon-size-15 icon mr-1"></user-icon>Juan Cardenas
               </li>
             </ul>
             <a
@@ -85,7 +85,7 @@ export default {
                 <calendar-icon class="icon-size-15 icon mr-1"></calendar-icon>01 Noviembre 2021
               </li>
               <li class="list-inline-item">
-                <user-icon class="icon-size-15 icon mr-1"></user-icon>Admin
+                <user-icon class="icon-size-15 icon mr-1"></user-icon>Juan Cardenas
               </li>
             </ul>
             <a
