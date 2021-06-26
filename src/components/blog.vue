@@ -17,7 +17,7 @@ export default {
             <h3 class="title mb-3">Artículos de Interés</h3>
             <p
               class="text-muted font-size-15"
-            >Encontraras los articulos de los temas mas interesantes que me han impresionado, Checalos y dejame tu feedback.</p>
+            >Encontraras los artículos de los temas mas interesantes que me han impresionado, Chécalos y déjame tu feedback.</p>
           </div>
         </div>
       </div>

@@ -34,10 +34,10 @@ export default {
               >Hola, soy</h4>
               <h1
                 class="hero-1-title text-dark font-weight-bold text-shadow mb-4"
-              >Juan David Cardenas</h1>
+              >Juan David Cárdenas </h1>
               <h6
                 class="hero-4-title text-dark font-weight-bold text-shadow mb-4"
-              >Nickname: Mcardi</h6>
+              >Mi nickname es Mcardi</h6>
               <h3
                 class="hero-4-title text-dark font-weight-bold text-shadow mb-4"
               > Me gusta desarrollar aplicaciones informáticas y te invito a conocer como se pueden crear cosas geniales con código.</h3>

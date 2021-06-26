@@ -38,11 +38,11 @@
                 <div class="wc-box-icon">
                   <i class="mdi mdi-trending-up"></i>
                 </div>
-                <h5 class="font-weight-bold mb-2 wc-title mt-4">Una razon demencial para destacar!</h5>
+                <h5 class="font-weight-bold mb-2 wc-title mt-4">Una razón demencial para destacar!</h5>
                 <p
                   class="text-muted mb-0 font-size-15 wc-subtitle"
                 >Al disponer de tecnologías flexibles, escalables,
-                es increible como se puede plasmar situaciones de la vida real al mundo digital y optimizar tiempo y costos.</p>
+                es increíble como se puede plasmar situaciones de la vida real al mundo digital y optimizar tiempo y costos.</p>
               </div>
               <div class="wc-box rounded text-center wc-box-primary p-4">
                 <div class="wc-box-icon">
@@ -64,7 +64,7 @@
                 <h5 class="font-weight-bold mb-2 wc-title mt-4">Generar inspiración con lo grafico</h5>
                 <p
                   class="text-muted mb-0 font-size-15 wc-subtitle"
-                >Una primera impresion fascinante, nos ayuda a recordar, amar o tener otro tipo de sentimiento de lo que vemos, Por ello me dedico en optimizar el diseño grafico de los programas que diseño.</p>
+                >Una primera impresión fascinante, nos ayuda a recordar, amar o tener otro tipo de sentimiento de lo que vemos, Por ello me dedico en optimizar el diseño grafico de los programas que diseño.</p>
               </div>
               <div class="wc-box rounded text-center wc-box-primary p-4">
                 <div class="wc-box-icon">

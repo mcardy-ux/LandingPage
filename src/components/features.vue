@@ -24,7 +24,7 @@ export default {
             <div class="text-center mb-5">
               <h3 class="title mb-3">Desarrollo de todo tipo</h3>
               <p class="text-muted font-size-15">
-                Me gusta desarrollar soluciones de todo tipo, desde apps para dispositivos moviles, API REST, Apps para Relojes Inteligentes, Aplicaciones Corporativas y muchos mas.
+                Me gusta desarrollar soluciones de todo tipo, desde apps para dispositivos móviles, API REST, Apps para Relojes Inteligentes, Aplicaciones Corporativas y muchos mas.
               </p>
             </div>
           </div>
@@ -42,7 +42,7 @@ export default {
               <i class="mdi mdi-chart-bubble h2 text-primary mr-1 align-middle"></i> DESARROLLO BACKEND
             </p>
             <h3 class="font-weight-semibold line-height-1_4 mb-4">
-              Lineas de Codigo pueden 
+              Líneas de Código pueden 
               <b>Potenciar</b>,
               <b>innovar</b>,
               <b>destacar</b> tus objetivos e ideas.
