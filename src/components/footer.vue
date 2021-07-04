@@ -73,18 +73,18 @@ export default {
                               <div class="contact-detail text-white ">
                                 <p class>
                                   <a href="mailto:admin@mcardi.com" target="_blank">
-                                  <mail-icon class="icon-xs icon mr-1"></mail-icon><strong>Email: </strong>
+                                  <strong>Email: </strong>
                                   <span>admin@mcardi.com</span>
                                   </a>
                                 </p>
                                 
                               
                                 <p class>
-                                  <ClockIcon class="icon-xs icon mr-1"></ClockIcon><strong>Horario: </strong>
+                                  <strong>Horario: </strong>
                                   <span>9:00 AM - 5:00 PM</span>
                                 </p>
                                 <p class>
-                                  <MapPinIcon class="icon-xs icon mr-1"></MapPinIcon><strong>De: </strong>
+                                  <strong>De: </strong>
                                   <span>Colombia</span>
                                 </p>
                               </div>
