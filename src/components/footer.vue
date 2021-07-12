@@ -72,9 +72,9 @@ export default {
                           
                               <div class="contact-detail text-white ">
                                 <p class>
-                                  <a href="mailto:admin@mcardi.com" target="_blank">
+                                  <a  style="color:#ffff" href="mailto:admin@mcardi.com" target="_blank">
                                   <mail-icon class="icon-xs icon mr-1"></mail-icon><strong>Email: </strong>
-                                  <span>admin@mcardi.com</span>
+                                  <span >admin@mcardi.com</span>
                                   </a>
                                 </p>
                                 

@@ -42,9 +42,9 @@ export default {
             >Top 10 - Como mejorar tu empresa con un buen diseño web</a>
             <p
               class="text-muted font-size-15"
-            >Integer ante arcu accumsan a consectetuer eget posuere mauris praesent adipiscing phasellus ullamcorper ipsum rutrum punc.</p>
+            ></p>
             <a href="javascript: void(0);" class="text-primary font-weight-semibold">
-              Leer Mas
+              Cooming Soon
               <span class="ml-2 right-icon">&#8594;</span>
             </a>
           </div>
@@ -68,9 +68,9 @@ export default {
             >¿Que beneficios existen en utilizar marketing Digital?</a>
             <p
               class="text-muted font-size-15"
-            >Integer ante arcu accumsan a consectetuer eget posuere mauris praesent adipiscing phasellus ullamcorper ipsum rutrum punc.</p>
+            ></p>
             <a href="javascript: void(0);" class="text-primary font-weight-semibold">
-              Leer Mas
+              Cooming Soon
               <span class="ml-2 right-icon">&#8594;</span>
             </a>
           </div>
@@ -94,9 +94,9 @@ export default {
             >Como hacer que tu propio logo genere beneficios.</a>
             <p
               class="text-muted font-size-15"
-            >Integer ante arcu accumsan a consectetuer eget posuere mauris praesent adipiscing phasellus ullamcorper ipsum rutrum punc.</p>
+            ></p>
             <a href="javascript: void(0);" class="text-primary font-weight-semibold">
-              Leer Mas
+              Cooming Soon
               <span class="ml-2 right-icon">&#8594;</span>
             </a>
           </div>
