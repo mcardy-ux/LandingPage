@@ -1,4 +1,5 @@
 # Mcardi - Vuejs Landing Page
+Landing Page personal donde se muestra mi informacion personal y profesional e incluye acceso al blog personal y proyectos. Basado en la tecnologia Vue.js y optimizado con diseño responsive.
 
 ## Project setup
 ```
@@ -15,5 +16,4 @@ yarn serve
 yarn build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Colabora Ahora!
