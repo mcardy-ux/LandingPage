@@ -1,4 +1,5 @@
 # Mcardi - Vuejs Landing Page
+Landing Page personal donde muestro mis proyectos y articulos principales de mi blog.
 
 ## Project setup
 ```

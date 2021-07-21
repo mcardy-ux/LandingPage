@@ -30,20 +30,20 @@ export default {
               class="list-inline text-muted text-uppercase font-size-15 font-weight-medium mt-3 mb-2"
             >
               <li class="list-inline-item mr-3">
-                <calendar-icon class="icon-size-15 icon mr-1"></calendar-icon>01 Noviembre 2021
+                <calendar-icon class="icon-size-15 icon mr-1"></calendar-icon>01 Julio 2021
               </li>
               <li class="list-inline-item">
                 <user-icon class="icon-size-15 icon mr-1"></user-icon>Juan Cardenas
               </li>
             </ul>
             <a
-              href="javascript: void(0);"
+              href="http://blog.mcardi.com/programming"
               class="text-dark font-weight-bold h5"
-            >Top 10 - Como mejorar tu empresa con un buen diseño web</a>
+            >¿Como puede mejorar tu empresa con un buen diseño web?</a>
             <p
               class="text-muted font-size-15"
-            >Integer ante arcu accumsan a consectetuer eget posuere mauris praesent adipiscing phasellus ullamcorper ipsum rutrum punc.</p>
-            <a href="javascript: void(0);" class="text-primary font-weight-semibold">
+            >El diseño de un sitio web se ha convertido mas que transmitir sentimientos, proveer accesibilidad o identificar tu sector. Ahora es igual de importante incrementar el nivel de confianza, prestigio y confianza hacia tu producto o servicio, Por ello invertir en el diseño de tu pagina web es un aspecto importante. A continuación encontraras variadas razones para tener en cuenta al mejorar tu pagina web.</p>
+            <a href="http://blog.mcardi.com/programming" class="text-primary font-weight-semibold">
               Leer Mas
               <span class="ml-2 right-icon">&#8594;</span>
             </a>
@@ -56,20 +56,20 @@ export default {
               class="list-inline text-muted text-uppercase font-size-15 font-weight-medium mt-3 mb-2"
             >
               <li class="list-inline-item mr-3">
-                <calendar-icon class="icon-size-15 icon mr-1"></calendar-icon>01 Noviembre 2021
+                <calendar-icon class="icon-size-15 icon mr-1"></calendar-icon>01 Julio 2021
               </li>
               <li class="list-inline-item">
                 <user-icon class="icon-size-15 icon mr-1"></user-icon>Juan Cardenas
               </li>
             </ul>
             <a
-              href="javascript: void(0);"
+              href="http://blog.mcardi.com/marketing"
               class="text-dark font-weight-bold h5"
             >¿Que beneficios existen en utilizar marketing Digital?</a>
             <p
               class="text-muted font-size-15"
-            >Integer ante arcu accumsan a consectetuer eget posuere mauris praesent adipiscing phasellus ullamcorper ipsum rutrum punc.</p>
-            <a href="javascript: void(0);" class="text-primary font-weight-semibold">
+            >Lograr vender productos o servicios a posibles clientes en los medios digitales se ha convertido en una faceta primordial, A continuación encontraras los principales beneficios de tener en cuenta el marketing digital...</p>
+            <a href="http://blog.mcardi.com/marketing" class="text-primary font-weight-semibold">
               Leer Mas
               <span class="ml-2 right-icon">&#8594;</span>
             </a>
@@ -82,20 +82,20 @@ export default {
               class="list-inline text-muted text-uppercase font-size-15 font-weight-medium mt-3 mb-2"
             >
               <li class="list-inline-item mr-3">
-                <calendar-icon class="icon-size-15 icon mr-1"></calendar-icon>01 Noviembre 2021
+                <calendar-icon class="icon-size-15 icon mr-1"></calendar-icon>01 Julio 2021
               </li>
               <li class="list-inline-item">
                 <user-icon class="icon-size-15 icon mr-1"></user-icon>Juan Cardenas
               </li>
             </ul>
             <a
-              href="javascript: void(0);"
+              href="http://blog.mcardi.com/design"
               class="text-dark font-weight-bold h5"
-            >Como hacer que tu propio logo genere beneficios.</a>
+            >¿Que beneficios puede aportar tu propio logo?</a>
             <p
               class="text-muted font-size-15"
-            >Integer ante arcu accumsan a consectetuer eget posuere mauris praesent adipiscing phasellus ullamcorper ipsum rutrum punc.</p>
-            <a href="javascript: void(0);" class="text-primary font-weight-semibold">
+            >Uno de los objetivos al plasmar tu marca o idea en una imagen es que sea fácil de reconocer, recordar y evocar un buen pensamiento en la persona que lo ve. Y desde luego es muy importante apelar a las conexiones que tenemos como seres humanos como a nivel de gusto, identificación y representación. Pero ademas de tener estos objetivos en mente, puedes ponerte como meta estos objetivos para que tu propio logo genere beneficios...</p>
+            <a href="http://blog.mcardi.com/design" class="text-primary font-weight-semibold">
               Leer Mas
               <span class="ml-2 right-icon">&#8594;</span>
             </a>
