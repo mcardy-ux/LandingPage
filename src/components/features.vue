@@ -33,7 +33,7 @@ export default {
         <div class="row align-items-center">
           <div class="col-lg-6">
             <div class="mb-4 mb-lg-0">
-              <img src="@/assets/images/features-img.png" alt class="img-fluid d-block mx-auto" />
+              <img src="@/assets/images/features-img.gif" alt class="img-fluid d-block mx-auto" />
             </div>
           </div>
 
@@ -55,12 +55,17 @@ export default {
               <life-buoy-icon class="icon-xs mr-1"></life-buoy-icon>Paginas Web, Tiendas Online, Aplicaciones Creativas.
             </p>
             <div class="mt-5">
-              <a href="javascript: void(0);" class="btn btn-primary mr-2">Ver Proyectos</a>
+              <a href="https://github.com/mcardy-ux?tab=repositories" target="_blank" class="btn btn-primary mr-2">Ver Proyectos</a>
             </div>
           </div>
         </div>
       </div>
     </section>
+<<<<<<< HEAD
+=======
+
+   
+>>>>>>> 780d2e2504cd895158aa5fdea34ba00850c3b3c0
     <!-- Features End -->
   </div>
 </template>
