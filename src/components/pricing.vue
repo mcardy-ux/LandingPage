@@ -1,3 +1,4 @@
+<!-- Seccion para mostrar precios  -->
 <template>
   <!-- Pricing Start -->
   <section class="section bg-light" id="pricing">
