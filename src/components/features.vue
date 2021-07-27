@@ -61,11 +61,6 @@ export default {
         </div>
       </div>
     </section>
-<<<<<<< HEAD
-=======
-
-   
->>>>>>> 780d2e2504cd895158aa5fdea34ba00850c3b3c0
     <!-- Features End -->
   </div>
 </template>
