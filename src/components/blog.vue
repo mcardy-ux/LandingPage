@@ -42,15 +42,9 @@ export default {
             >¿Como puede mejorar tu empresa con un buen diseño web?</a>
             <p
               class="text-muted font-size-15"
-<<<<<<< HEAD
             >El diseño de un sitio web se ha convertido mas que transmitir sentimientos, proveer accesibilidad o identificar tu sector. Ahora es igual de importante incrementar el nivel de confianza, prestigio y confianza hacia tu producto o servicio, Por ello invertir en el diseño de tu pagina web es un aspecto importante. A continuación encontraras variadas razones para tener en cuenta al mejorar tu pagina web.</p>
             <a href="http://blog.mcardi.com/programming" class="text-primary font-weight-semibold">
               Leer Mas
-=======
-            ></p>
-            <a href="javascript: void(0);" class="text-primary font-weight-semibold">
-              Cooming Soon
->>>>>>> 780d2e2504cd895158aa5fdea34ba00850c3b3c0
               <span class="ml-2 right-icon">&#8594;</span>
             </a>
           </div>
@@ -74,15 +68,9 @@ export default {
             >¿Que beneficios existen en utilizar marketing Digital?</a>
             <p
               class="text-muted font-size-15"
-<<<<<<< HEAD
             >Lograr vender productos o servicios a posibles clientes en los medios digitales se ha convertido en una faceta primordial, A continuación encontraras los principales beneficios de tener en cuenta el marketing digital...</p>
             <a href="http://blog.mcardi.com/marketing" class="text-primary font-weight-semibold">
               Leer Mas
-=======
-            ></p>
-            <a href="javascript: void(0);" class="text-primary font-weight-semibold">
-              Cooming Soon
->>>>>>> 780d2e2504cd895158aa5fdea34ba00850c3b3c0
               <span class="ml-2 right-icon">&#8594;</span>
             </a>
           </div>
@@ -106,15 +94,9 @@ export default {
             >¿Que beneficios puede aportar tu propio logo?</a>
             <p
               class="text-muted font-size-15"
-<<<<<<< HEAD
             >Uno de los objetivos al plasmar tu marca o idea en una imagen es que sea fácil de reconocer, recordar y evocar un buen pensamiento en la persona que lo ve. Y desde luego es muy importante apelar a las conexiones que tenemos como seres humanos como a nivel de gusto, identificación y representación. Pero ademas de tener estos objetivos en mente, puedes ponerte como meta estos objetivos para que tu propio logo genere beneficios...</p>
             <a href="http://blog.mcardi.com/design" class="text-primary font-weight-semibold">
               Leer Mas
-=======
-            ></p>
-            <a href="javascript: void(0);" class="text-primary font-weight-semibold">
-              Cooming Soon
->>>>>>> 780d2e2504cd895158aa5fdea34ba00850c3b3c0
               <span class="ml-2 right-icon">&#8594;</span>
             </a>
           </div>
