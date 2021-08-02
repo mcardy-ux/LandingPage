@@ -1,11 +1,11 @@
 <script>
-import Navbar from "@/components/navbar";
-import Service from "@/components/services";
-import Features from "@/components/features";
-import Pricing from "@/components/pricing";
-import Blog from "@/components/blog";
-import Contact from "@/components/contact";
-import Footer from "@/components/footer";
+import Navbar from "@/components/en/navbar";
+import Service from "@/components/en/services";
+import Features from "@/components/en/features";
+import Pricing from "@/components/en/pricing";
+import Blog from "@/components/en/blog";
+import Contact from "@/components/en/contact";
+import Footer from "@/components/en/footer";
 
 /**
  * Index-1
@@ -31,26 +31,25 @@ export default {
             <div class="col-lg-6">
               <h4
                 class="hero-4-title text-dark font-weight-bold text-shadow mb-4"
-              >Hola, soy</h4>
+              >Hi everyone. </h4>
               <h1
                 class="hero-1-title text-dark font-weight-bold text-shadow mb-4"
-              >Juan David Cárdenas </h1>
+              >This is Juan David Cardenas </h1>
               <h6
                 class="hero-4-title text-dark font-weight-bold text-shadow mb-4"
-              >Mi nickname es Mcardi</h6>
+              >but you can call me Mcardy.</h6>
               <h3
                 class="hero-4-title text-dark font-weight-bold text-shadow mb-4"
-              > Me gusta desarrollar aplicaciones informáticas y te invito a conocer como se pueden crear cosas geniales con código.</h3>
+              > I love developing apps and software.</h3>
               <div class="w-95 mb-6 mb-lg-0">
                 <p class="text-muted mb-5 pb-5 font-size-19">
-                  <span class="font-size-20 mr-2">🚀</span>Soy desarrollador de software , apasionado por crear, potenciar e innovar constantemente, Amante de la pizza <span class="font-size-20 mr-2">🍕</span>y de los buenos momentos al lado de la naturaleza. <span class="font-size-20 mr-2">🌄</span>
-                  
+                  <span class="font-size-20 mr-2">🚀</span> I would like you to know the great things that can be made out of coding. I'm a software developer passionate about creating and innovating. I'm a hardcore pizza lover<span class="font-size-20 mr-2">🍕</span> and I also love good moments in nature <span class="font-size-20 mr-2">🌄</span>.                  
                 </p>
                 <p class>
                   
                 </p>
                 <form action="mailto:contacto@mcardi.com">
-                    <button type="submit" class="btn btn-primary" style="float:left;">Hablemos 💬</button>
+                    <button type="submit" class="btn btn-primary" style="float:left;">Contact Me 💬</button>
                 </form>
                 
               </div>

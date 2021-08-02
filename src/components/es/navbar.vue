@@ -72,7 +72,7 @@ export default {
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav mx-auto navbar-center" id="mySidenav" v-scroll-spy-active>
           <li class="nav-item">
-            <a href="javascript: void(0);" v-scroll-to="'#home'" class="nav-link">Sobre mi</a>
+            <a href="javascript: void(0);" v-scroll-to="'#home'" class="nav-link">Inicio</a>
           </li>
           <li class="nav-item">
             <a
@@ -101,7 +101,7 @@ export default {
         </ul> -->
       </div>
     </div>
-    <b-modal id="login-modal" hide-header hide-footer centered>
+    <!-- <b-modal id="login-modal" hide-header hide-footer centered>
       <div class="text-center">
         <h3 class="title mb-4">Bienvenido a Mcardi</h3>
         <h4 class="text-uppercase text-primary">
@@ -256,7 +256,7 @@ export default {
           </p>
         </div>
       </div>
-    </b-modal>
+    </b-modal> -->
   </nav>
   <!-- Navbar End -->
 </template>
