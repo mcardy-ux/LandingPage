@@ -107,7 +107,7 @@ export default {
             <div class="text-center">
               <p
                 class="text-white-50 font-size-15 mb-0"
-              >{{ new Date().getFullYear()}} © Mcardi. Design by Mcardi</p>
+              >{{ new Date().getFullYear()}} © Mcardi. Diseñado por Mcardi</p>
             </div>
           </div>
         </div>

@@ -29,7 +29,7 @@ export default {
               <img src="@/assets/images/logo-light.png" alt class height="24" />
              
               <p class="text-white-50 my-4 font-size-15">
-                Diseñamos y creamos tu propia página web con calidad profesional. Ya sea que estés promocionando tu negocio, mostrando tu trabajo, abriendo tu tienda online o automatizando procesos.
+                We design and create your own website with high professional quality. Whether you are promoting your business, releasing your online store, or automatizing processes. 
               </p>
               <ul class="list-inline footer-social-icon-content">
                 <li class="list-inline-item mr-4">
@@ -63,11 +63,10 @@ export default {
                     <div class="row justify-content-center">
                       <div class="col-lg-10">
                         <div class="text-center mb-5">
-                          <h3 class=" text-white mb-3">Contáctame</h3>
+                          <h3 class=" text-white mb-3">Contact me</h3>
                             <p class="text-white-50 my-4 font-size-15">
-                              Escribe un poco de tus necesidades especificas en la parte digital al email y 
-                              estaré encantado de encontrar la solución mas adecuada para ti. ¡Espero tu mensaje Pronto! 
-
+                              Let me know what your necessities are, make an online request by sending it to the email. I will be more than glad to help you. 
+                               I look forward to hearing from you soon!
                             </p>
                           
                               <div class="contact-detail text-white ">
@@ -80,11 +79,11 @@ export default {
                                 
                               
                                 <p class>
-                                  <strong>Horario: </strong>
-                                  <span>9:00 AM - 5:00 PM</span>
+                                  <strong>Available: </strong>
+                                  <span>9:00 AM - 5:00 PM | UTC−5</span>
                                 </p>
                                 <p class>
-                                  <strong>De: </strong>
+                                  <strong>From: </strong>
                                   <span>Colombia</span>
                                 </p>
                               </div>
