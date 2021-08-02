@@ -14,10 +14,10 @@ export default {
       <div class="row justify-content-center">
         <div class="col-lg-6">
           <div class="text-center mb-5">
-            <h3 class="title mb-3">Artículos de Interés</h3>
+            <h3 class="title mb-3">Content of interest</h3>
             <p
               class="text-muted font-size-15"
-            >Encontraras los artículos de los temas mas interesantes que me han impresionado, Chécalos y déjame tu feedback.</p>
+            >You will find articles of interest topics so check this out and let me know your feedback.</p>
           </div>
         </div>
       </div>
