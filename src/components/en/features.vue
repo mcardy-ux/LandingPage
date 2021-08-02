@@ -22,9 +22,9 @@ export default {
         <div class="row justify-content-center">
           <div class="col-lg-6">
             <div class="text-center mb-5">
-              <h3 class="title mb-3">Desarrollo de todo tipo</h3>
+              <h3 class="title mb-3">Development</h3>
               <p class="text-muted font-size-15">
-                Me gusta desarrollar soluciones de todo tipo, desde apps para dispositivos móviles, API REST, Apps para Relojes Inteligentes, Aplicaciones Corporativas y muchos mas.
+               I offer a bunch of solutions like apps for mobile devices, API REST, apps for smartwatches, corporative apps, and much more.
               </p>
             </div>
           </div>
@@ -39,23 +39,20 @@ export default {
 
           <div class="col-lg-5 offset-lg-1">
             <p class="font-weight-medium text-uppercase mb-2">
-              <i class="mdi mdi-chart-bubble h2 text-primary mr-1 align-middle"></i> DESARROLLO BACKEND
+              <i class="mdi mdi-chart-bubble h2 text-primary mr-1 align-middle"></i>Backend development
             </p>
             <h3 class="font-weight-semibold line-height-1_4 mb-4">
-              Líneas de Código pueden 
-              <b>Potenciar</b>,
-              <b>innovar</b>,
-              <b>destacar</b> tus objetivos e ideas.
+             The coding lines can boot <strong>innovate</strong> and point out your objectives and ideas. 
             </h3>
            
             <p class="text-muted mb-2">
-              <layout-icon class="icon-xs mr-1"></layout-icon>Desarrollo FullStack
+              <layout-icon class="icon-xs mr-1"></layout-icon>Fullstack development
             </p>
             <p class="text-muted">
-              <life-buoy-icon class="icon-xs mr-1"></life-buoy-icon>Paginas Web, Tiendas Online, Aplicaciones Creativas.
+              <life-buoy-icon class="icon-xs mr-1"></life-buoy-icon>Websites, Online Stores, and creative apps.
             </p>
             <div class="mt-5">
-              <a href="https://github.com/mcardy-ux?tab=repositories" target="_blank" class="btn btn-primary mr-2">Ver Proyectos</a>
+              <a href="https://github.com/mcardy-ux?tab=repositories" target="_blank" class="btn btn-primary mr-2">See our proyects.</a>
             </div>
           </div>
         </div>
